@@ -26,7 +26,8 @@ storytelling mechanism for the iPod using the "Notes" features. I had
 discovered that I could 'hack' the iPod Notes application
 to allow me to create HTML hyperlinks and insert music. 
 
-I created a freeware software to allow anyone of any technical expertise to leverage this feature and
+I [created a freeware software](http://forums.ilounge.com/ipod-classic-legacy-ipods/21018-interactive-games-istory-creator.html) 
+to allow anyone to leverage this hyperlinking feature and
 publish interactive stories that could be downloaded onto the iPod. 
 I collected 150+ "iStories" on a variety of topics 
 from many authors that I would make available for download on our website.
