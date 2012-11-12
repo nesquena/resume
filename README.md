@@ -76,7 +76,7 @@ with the guidance of my high school teacher
 While I was in college, I was always working in the industry as well.
 I did various freelancing jobs, explored multiple stacks and worked for several startups. This included my work with
 [quub](http://techcrunch.com/2009/04/27/quub-a-micromessaging-service-that-asks-what-are-you-doing-and-means-it/)
-where I had the opportunity to work with one of my best professors from college, 
+where I had the opportunity to collaborate closely with one of my best professors from college, 
 [Don Patterson](http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djpatter).
 
 ## Olepta
