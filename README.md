@@ -83,9 +83,29 @@ Prior to working at Miso in San Francisco, I have had a history of working at ea
 I'd like to include here a richer story of my background in software
 development for those that are interested.
 
+## The Early Years
+
+I started programming when I was fairly young. My dad always
+loved computers and he was showing me [Gopher](http://www.codeghost.com/gopher_history.html)
+as early as 1993 when I was just 6 years old. 
+
+When I was 9, My dad bought me [Lego Mindstorms](http://en.wikipedia.org/wiki/Lego_Mindstorms) and 
+I was soon introduced to VB6 (Visual Basic) and later to C++ by my uncle that was
+working for Symantec as a developer at that time.
+
+Lego Mindstorms and Visual Basic introduced me to the fundamental concepts of programming
+but only when I started diving into C++ did I really begin to understand how deep the rabbit hole could go.
+I also picked up HTML and CSS when I was 11 and began making (bad) websites for various
+family members around 1998.
+
 ## High School and iPodSoft
 
-I have been doing this since 2004, when I started my first company 
+In high school, having a background in programming, I decided to
+enroll in a computer science offered to freshman and was introduced
+to Pascal, Scheme and later Java. I continued along this path
+and took every computer science class available at my high school.
+
+My serious interests in development started in 2004, when I started my first company 
 [iPodSoft](http://www.ipodsoft.com/site/pmwiki.php) in my 3rd year of high school. 
 I reached out to a few other developers and established a marketplace for selling iPod-related software. 
 With iPodSoft, I developed and sold multiple desktop and mobile softwares 
