@@ -29,17 +29,18 @@ created using my software and that I would publish on our website.
 
 Shortly after I graduated high school in 2005, I was contacted by Jordan Allen-Dutton
 because he wanted to acquire my software and hire me as the principal engineer to work at his startup 
-[Talking Panda](http://www.talkingpanda.com/index.html). He liked building
-iPod software just like me and we shared a vision of the future for an iPod filled
-with interactive experiences and user created applications. 
+[Talking Panda](http://www.talkingpanda.com/index.html). He also loved building
+iPod software and we shared a vision of the future for an iPod filled
+with interactive experiences and third-party developer-created applications. 
 
-With Talking Panda, I built a successor to iStory Creator which we named 
-[iWriter](http://talkingpanda.com/iwriter) and worked on all the other software we released. 
+With Talking Panda, I built the successor to iStory Creator which we branded 
+[iWriter](http://talkingpanda.com/iwriter) and worked on several other related products. 
 iWriter was intended to be used as an educational and entertainment platform and
 was experimented with by a few forward-thinking
 universities including [Penn State](http://ets.tlt.psu.edu/white-papers/iwriter-hot-team-results/).
-Our boxed software such as [iRocker](http://talkingpanda.com/irocker.php) were some of the first third-party
-software sold in the official Apple retail stores. 
+Our other educational software such as [iRocker](http://talkingpanda.com/irocker.php) became the 
+[first third-party](http://www.macnn.com/reviews/ibar-and-irocker.html)
+iPod software sold in official Apple retail stores. 
 
 ## Mogopop
 
