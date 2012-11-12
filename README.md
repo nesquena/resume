@@ -82,16 +82,17 @@ where I had the opportunity to work with one of my best professors from college,
 ## Olepta
 
 In college, I started a company with my good friend [Thomas Shafer](https://github.com/growlypants) 
-named "Olepta", which was intended to be a turnkey scheduling solutions for health professionals. 
+named Olepta, which was a turnkey scheduling solution for health professionals. 
 We worked on that together for several years while in college, including coordinating with our professors
 to allow us to get formal school credit for our work and turn our company into our senior class project.
-Had a great time with Olepta and we ended up getting multiple patents several of which 
-were ultimately acquired by [Ethicon-Endo](http://www.ees.com/).
+We also applied to several business competitions on campus and got awarded prize money we used to
+fund the operations of our small startup. Had a great time with Olepta and we ended up 
+getting multiple patents several of which were ultimately acquired by [Ethicon-Endo](http://www.ees.com/).
 
 ## Graduation and Open Source
 
 My senior year (in 2008), I was working with my professor on a startup called 'quub', my own 
-startup 'Olepta' and began falling in love with web development and working more seriously with Ruby. 
+startup we called Olepta and began falling in love with web development and working more seriously with Ruby. 
 I started playing much more seriously with Rails and Sinatra and liking them both quite a bit. Started
 focusing all of my time into that stack, opting to specialize rather than explore breadth-first
 as I had been doing. Around this time, I decided to
