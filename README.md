@@ -153,7 +153,7 @@ The scale is from 1 (complete beginner, barely played with the skill) to
  * **MiniTest** (unit tests): 6
  * **jQuery**: 6
  * **git**: 6
- * **Writing (documentation)**: 6
+ * **Writing** (documentation): 6
  * **Agile Process**: 5
  * **Capybara** (integration tests): 5
  * **PostgreSQL**: 5
@@ -192,6 +192,13 @@ of my projects.
 
 # Links
 
+A few links to other miscellaneous resources:
+
 * [Github](https://github.com/nesquena)
 * [Twitter](https://twitter.com/nesquena)
 * [LinkedIn](http://www.linkedin.com/pub/nathan-esquenazi/7/537/aa6)
+
+# Questions?
+
+If you have any questions or thoughts, please email me (link in my profile) or
+tweet at [@nesquena](https://twitter.com/nesquena).
