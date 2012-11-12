@@ -19,7 +19,17 @@ The following is an **incomplete list** of a few highlights from my work history
  * **iPodSoft** (2003-2005) - Founded to sell iPod-related software with several other developers.
 
 In addition, I worked for short periods of time with various other startups doing web and desktop development
-as well as freelancing on and off throughout my other jobs.
+as well as freelancing on and off occasionally my other jobs.
+
+## My Education
+
+ * School: University of California at Irvine, CA
+   * Department: Donald Bren School of Information and Computer Sciences
+   * Major: Information and Computer Science, 2009
+   * G.P.A: 3.80/4.00
+ * Dean’s Honor Roll - 2007 to 2009
+ * Phi Beta Kappa - June 2009. Honor Society. Nominated. Top 5% graduating seniors.
+
  
 # My Skills
 
@@ -191,7 +201,7 @@ We also applied to several business competitions on campus and got awarded prize
 fund the operations of our small startup. Had a great time with Olepta and we ended up 
 getting multiple patents several of which were ultimately acquired by [Ethicon-Endo](http://www.ees.com/).
 
-## Graduation and Open Source
+## quub and Open Source
 
 My senior year (in 2008), I was working with my professor on a startup called 'quub', my own 
 startup we called Olepta and began falling in love with web development and working more seriously with Ruby. 
@@ -202,7 +212,7 @@ as I had been doing. Around this time, I decided to
 [simple](https://github.com/nesquena/conditions_fu) [projects](https://github.com/nesquena/prototype_animator)
 which sparked my interest in the open-source community.
 
-## Post-graduation
+## Post-Graduation
 
 In 2009, I graduated with a Bachelor's in "Informatics" from University of California at Irvine.
 I also began working with a classmate [Arthur Chiu](https://github.com/achiu) and
