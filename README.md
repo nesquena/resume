@@ -65,16 +65,18 @@ from my first startup but I was hooked and began independently learning all abou
 web development. Executing products was fun and I realized this was
 what I wanted to invest my time into. 
 
-Classes and the academic theory were interesting to me but I couldn't resist the startup world.
+Classes and the academic theory were interesting to me but I couldn't resist my interest in startups.
 Still, I found at that time a passion for education and curriculum. I became a tutor for several years
 teaching CS fundamentals to freshman and sophomores. I also enjoyed helping
 other classmates understand material having
 myself entered college with 3 years of CS fundamentals and a 5 on the AP test
-with the help and guidance of [Bob Franz](http://www.lasv.org/laaefamily/advisors/rfranz.htm).
+with the guidance of my high school teacher
+[Bob Franz](http://www.lasv.org/laaefamily/advisors/rfranz.htm).
 
-I did various contracting jobs, explored multiple stacks and worked for several more startups including 
+While I was in college, I was always working in the industry as well.
+I did various freelancing jobs, explored multiple stacks and worked for several startups. This included my work with
 [quub](http://techcrunch.com/2009/04/27/quub-a-micromessaging-service-that-asks-what-are-you-doing-and-means-it/)
-working with one of my top professors from college, 
+where I had the opportunity to work with one of my best professors from college, 
 [Don Patterson](http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djpatter).
 
 ## Olepta
