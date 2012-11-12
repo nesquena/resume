@@ -12,9 +12,10 @@ for summaries to skim.
 # My Story
 
 Prior to Miso, I have a history of working at startups. I have been doing so since I started
-my first company [iPodSoft] as a junior in high school in 2004. I collaborated with a few 
-other developers and established the brand and marketplace for selling iPod-related software. 
-At iPodSoft, I developed multiple desktop and mobile softwares
+my first company [iPodSoft](http://www.ipodsoft.com/site/pmwiki.php) as a junior in high school in 2004. 
+I reached out to a few other developers and established a 
+brand and marketplace for selling iPod-related software. 
+With iPodSoft, I developed multiple desktop and mobile softwares
 before the iPod had any connection to the internet. 
 
 ## iStory Creator
