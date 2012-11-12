@@ -71,6 +71,7 @@ A few highlights of projects I have created and/or worked on (in no particular o
 | [beaneater](https://github.com/beanstalkd/beaneater) | Official beanstalkd client for ruby |
 | [tvdbr](https://github.com/bazaarlabs/tvdbr) | Complete wrapper for accessing the TVDB |
 | [dante](https://github.com/bazaarlabs/dante) | Simple daemons for ruby |
+| [terminitor](https://github.com/achiu/terminitor) | Automated workflow for OSX |
 
 Feel free to poke around to get a sense for my coding style. I always put a lot
 of emphasis on documentation and making it easy for developers to get started.
