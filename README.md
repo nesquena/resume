@@ -85,10 +85,10 @@ My senior year (in 2008), I was working with my professor on a startup called 'q
 startup 'Olepta' and began falling in love with web development and working more seriously with Ruby. 
 I started playing much more seriously with Rails and Sinatra and liking them both quite a bit. Started
 focusing all of my time into that stack, opting to specialize rather than explore breadth-first
-as I had been doing. Around this time, I began tinkering with open-source and releasing 
-[several](https://github.com/nesquena/wikipedia_search) [few](https://github.com/nesquena/prototype_notifier)
-[early](https://github.com/nesquena/conditions_fu) [projects](https://github.com/nesquena/prototype_animator)
-which sparked my interest in contributing to the open-source community.
+as I had been doing. Around this time, I decided to
+[release](https://github.com/nesquena/wikipedia_search) a [few](https://github.com/nesquena/prototype_notifier)
+[simple](https://github.com/nesquena/conditions_fu) [projects](https://github.com/nesquena/prototype_animator)
+which sparked my interest in the open-source community.
 
 ## Post-graduation
 
