@@ -186,6 +186,8 @@ A few highlights of projects I have created and/or worked on (in no particular o
 
 Feel free to poke around to get a sense for my coding style. I always put a lot
 of emphasis on documentation and making it easy for developers to get started.
+I also do my best to do proper unit-testing where appropriate to ensure the correctness
+of my projects.
 
 # Links
 
