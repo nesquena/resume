@@ -200,7 +200,7 @@ We also applied to several business competitions on campus and got awarded prize
 fund the operations of our small startup. Had a great time with Olepta and we ended up 
 getting multiple patents several of which were ultimately acquired by [Ethicon-Endo](http://www.ees.com/).
 
-## quub and Open Source
+## Senior Year and Open Source
 
 My senior year (in 2008), I was working with my professor on a startup called 'quub', my own 
 startup we called Olepta and began falling in love with web development and working more seriously with Ruby. 
