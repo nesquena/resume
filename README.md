@@ -5,6 +5,10 @@ participating in startups and the ideals of entrepreneurship. I love open source
 web development, and executing ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
+**Note:** Skip my detailed story below and 
+jump to [Professional History](#my-professional-history)
+for summaries to skim.
+
 # My Story
 
 Prior to Miso, I have a history of working at startups. I have been doing so since I started
@@ -97,7 +101,7 @@ with near full-time hours. I worked in desktop development (Java, .NET),
 mobile development (Blackberry, Symbian, Android) and a ton of web development (ASP.NET, Java, PHP and Ruby).
 Always focused on building things and learning more about all the many, many things I didn't know. 
 
-# My Profession
+# My Professional History
 
 The following is an incomplete list of a few highlights of my work history:
 
