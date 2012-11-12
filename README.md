@@ -79,7 +79,12 @@ of my projects.
 
 # My Story
 
-Prior to working at Miso, I have a history of working at early-stage startups. 
+Prior to working at Miso in San Francisco, I have had a history of working at early-stage startups. 
+I'd like to include here a richer story of my background in software
+development for those that are interested.
+
+## High School and iPodSoft
+
 I have been doing this since 2004, when I started my first company 
 [iPodSoft](http://www.ipodsoft.com/site/pmwiki.php) in my 3rd year of high school. 
 I reached out to a few other developers and established a marketplace for selling iPod-related software. 
