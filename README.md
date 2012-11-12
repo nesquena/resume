@@ -197,6 +197,8 @@ A few links to other miscellaneous resources:
 * [Github](https://github.com/nesquena)
 * [Twitter](https://twitter.com/nesquena)
 * [LinkedIn](http://www.linkedin.com/pub/nathan-esquenazi/7/537/aa6)
+* [gitalytics](http://gitalytics.com/user/detail/nesquena)
+* [StackOverflow](http://stackoverflow.com/users/584038/nesquena)
 
 # Questions?
 
