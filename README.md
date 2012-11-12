@@ -48,6 +48,9 @@ The scale is from 1 (complete beginner, barely played with the skill) to
  * **Javascript** (no framework): 4
  * **Interaction Design** (user experience): 4
  * **Python**: 3
+*  **C# .NET** (Desktop) : 3
+ * **Objective-C** (iPhone): 2
+ * **Android**: 2
  * **Backbone**: 2
  * **Visual Design** (colors, layouts): 2
  * **VIM**: 1
