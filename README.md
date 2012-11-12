@@ -5,9 +5,77 @@ participating in startups and the ideals of entrepreneurship. I also have a pass
 web development, and executing new ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
-**Note:** Skip my detailed story below and 
-jump to my [Professional History](#my-professional-history)
-for if you are in a hurry. 
+**Note:** The quick summaries presented below are first, followed by
+a more detailed story of my background.
+
+# My Professional History
+
+The following is an **incomplete list** of a few highlights from my work history:
+ 
+ * **Miso** (2010-Present) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
+ * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
+ * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
+ * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
+ * **iPodSoft** (2003-2005) - Founded to sell iPod-related software with several other developers.
+ 
+# My Skills
+
+Whenever I have been in a position to help grow the team for the startups I have worked at,
+I put a lot of emphasis on understanding how much visibility potential hires
+had into the depths of their own knowledge. I consider people that rank themselves
+suspiciously high on any given skill to mark a "red flag" of sorts. In my experience so far, there
+are very few exceptions to the 
+[Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
+
+I figure then that it would only be fair for me to rank my own abilities on a few key skills 
+_as they stand today_. I am going for accuracy here. An attempt to honestly 
+evaluate my own skills (as hard as that can be).
+The scale is from 1 (complete beginner, barely played with the skill) to 
+10 (practical master, knows topic inside and out).
+ 
+ * **Sinatra/Padrino**: 8
+ * **Ruby**: 7
+ * **Ruby on Rails**: 6
+ * **API Development**: 6
+ * **MiniTest** (unit tests): 6
+ * **jQuery**: 6
+ * **git**: 6
+ * **Writing** (documentation): 6
+ * **Agile Process**: 5
+ * **Capybara** (integration tests): 5
+ * **PostgreSQL**: 5
+ * **HTML5/CSS3**: 5
+ * **Javascript** (no framework): 4
+ * **Interaction Design** (user experience): 4
+ * **Python**: 3
+ * **Backbone**: 2
+ * **Visual Design** (colors, layouts): 2
+ * **VIM**: 1
+
+I will be adding to this list and hopefully updating it in an ongoing effort to improve.
+
+# My Projects
+
+A few highlights of projects I have created and/or worked on (in no particular order):
+
+| Project | Description                                                                 |
+| ------- | -------------------------------                                            |
+| [sinatra-more](https://github.com/nesquena/sinatra_more) | Powerful extensions to Sinatra | 
+| [Padrino](http://padrinorb.com) | Alternative to Rails, elegant Ruby web framework. |
+| [RABL](https://github.com/nesquena/rabl) | Ruby templating for APIs |
+| [gitdocs](https://github.com/bazaarlabs/gitdocs) | DIY Dropbox for Developers |
+| [backburner](https://github.com/nesquena/backburner) | Reliable and simple ruby job queue |
+| [sheet_mapper](https://github.com/nesquena/sheet_mapper) | Simple ORM for google spreadsheets |
+| [query_reviewer](https://github.com/nesquena/query_reviewer) | Powerful DB analyzer. Current maintainer |
+| [cap-recipes](https://github.com/nesquena/cap-recipes) | Battle-tested automated deployment recipe |
+| [beaneater](https://github.com/beanstalkd/beaneater) | Official beanstalkd client for ruby |
+| [tvdbr](https://github.com/bazaarlabs/tvdbr) | Complete wrapper for accessing the TVDB |
+| [dante](https://github.com/bazaarlabs/dante) | Simple daemons for ruby |
+
+Feel free to poke around to get a sense for my coding style. I always put a lot
+of emphasis on documentation and making it easy for developers to get started.
+I also do my best to do proper unit-testing where appropriate to ensure the correctness
+of my projects.
 
 # My Story
 
@@ -128,75 +196,6 @@ still actively contributing to open-source, most recently with [RABL](https://gi
 which has been [gaining popularity](https://www.ruby-toolbox.com/categories/API_Builders) and
 [backburner](https://github.com/nesquena/backburner) which is a reliable ruby work queue
 powered by beanstalkd.
-
-# My Professional History
-
-The following is an **incomplete list** of a few highlights from my work history:
- 
- * **Miso** (2010-Present) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
- * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
- * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
- * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
- * **iPodSoft** (2003-2005) - Founded to sell iPod-related software with several other developers.
- 
-# My Skills
-
-Whenever I have been in a position to help grow the team for the startups I have worked at,
-I put a lot of emphasis on understanding how much visibility potential hires
-had into the depths of their own knowledge. I consider people that rank themselves
-suspiciously high on any given skill to mark a "red flag" of sorts. In my experience so far, there
-are very few exceptions to the 
-[Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
-
-I figure then that it would only be fair for me to rank my own abilities on a few key skills 
-_as they stand today_. I am going for accuracy here. An attempt to honestly 
-evaluate my own skills (as hard as that can be).
-The scale is from 1 (complete beginner, barely played with the skill) to 
-10 (practical master, knows topic inside and out).
- 
- * **Sinatra/Padrino**: 8
- * **Ruby**: 7
- * **Ruby on Rails**: 6
- * **API Development**: 6
- * **MiniTest** (unit tests): 6
- * **jQuery**: 6
- * **git**: 6
- * **Writing** (documentation): 6
- * **Agile Process**: 5
- * **Capybara** (integration tests): 5
- * **PostgreSQL**: 5
- * **HTML5/CSS3**: 5
- * **Javascript** (no framework): 4
- * **Interaction Design** (user experience): 4
- * **Python**: 3
- * **Backbone**: 2
- * **Visual Design** (colors, layouts): 2
- * **VIM**: 1
-
-I will be adding to this list and hopefully updating it in an ongoing effort to improve.
-
-# My Projects
-
-A few highlights of projects I have created and/or worked on (in no particular order):
-
-| Project | Description                                                                 |
-| ------- | -------------------------------                                            |
-| [sinatra-more](https://github.com/nesquena/sinatra_more) | Powerful extensions to Sinatra | 
-| [Padrino](http://padrinorb.com) | Alternative to Rails, elegant Ruby web framework. |
-| [RABL](https://github.com/nesquena/rabl) | Ruby templating for APIs |
-| [gitdocs](https://github.com/bazaarlabs/gitdocs) | DIY Dropbox for Developers |
-| [backburner](https://github.com/nesquena/backburner) | Reliable and simple ruby job queue |
-| [sheet_mapper](https://github.com/nesquena/sheet_mapper) | Simple ORM for google spreadsheets |
-| [query_reviewer](https://github.com/nesquena/query_reviewer) | Powerful DB analyzer. Current maintainer |
-| [cap-recipes](https://github.com/nesquena/cap-recipes) | Battle-tested automated deployment recipe |
-| [beaneater](https://github.com/beanstalkd/beaneater) | Official beanstalkd client for ruby |
-| [tvdbr](https://github.com/bazaarlabs/tvdbr) | Complete wrapper for accessing the TVDB |
-| [dante](https://github.com/bazaarlabs/dante) | Simple daemons for ruby |
-
-Feel free to poke around to get a sense for my coding style. I always put a lot
-of emphasis on documentation and making it easy for developers to get started.
-I also do my best to do proper unit-testing where appropriate to ensure the correctness
-of my projects.
 
 # Links
 
