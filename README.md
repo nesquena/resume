@@ -63,7 +63,7 @@ that not 6 months later, Apple would release the first iPhone and the app store.
 While I was a freshman in college at University of California at Irvine, I moved on 
 from my first startup but I was hooked and began independently learning all about desktop, mobile and
 web development. Executing products was fun and I realized this was
-what I wanted to do...at least for a while. 
+what I wanted to invest my time into. 
 
 Classes and the academic theory were interesting to me but I couldn't resist the startup world.
 Still, I found at that time a passion for education and curriculum. I became a tutor for several years
