@@ -121,14 +121,15 @@ The following is an incomplete list of a few highlights of my work history:
 
 When I have been in a position to help grow the team in the startups I have worked at,
 I always put a lot of emphasis on understanding how much visibility potential hires
-have into the depths of their own skills. I consider people that rank themselves
-too highly on a given skill to be a red flag of sorts. In my experience so far with development, 
-the [Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect)
-_very_ rarely gets contradicted.
+had into the depths of their own knowledge. I consider people that rank themselves
+too highly on any given skill a "red flag" of sorts. In my experience so far, there
+are very few exceptions to the 
+[Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
 
-I figure it is only fair to rank my own abilities on a few key skills _as they stand today_. 
-I am going for complete honesty here...an attempt to honestly rate my own skills (as hard as that is).
-The scale is from 1 (complete beginner, barely played with the skill) to 10 (practical master).
+I figure then that it would only be fair to rank my own abilities on a few key skills _as they stand today_. 
+I am going for honesty here. An attempt to honestly evaluate my own skills (as hard as that can be).
+The scale is from 1 (complete beginner, barely played with the skill) to 
+10 (practical master, knows topic inside and out).
  
  * **Sinatra/Padrino**: 8
  * **Ruby**: 7
@@ -137,6 +138,7 @@ The scale is from 1 (complete beginner, barely played with the skill) to 10 (pra
  * **MiniTest** (unit tests): 6
  * **jQuery**: 6
  * **git**: 6
+ * **Writing (documentation)**: 6
  * **Agile Process**: 5
  * **Capybara** (integration tests): 5
  * **PostgreSQL**: 5
@@ -150,7 +152,7 @@ The scale is from 1 (complete beginner, barely played with the skill) to 10 (pra
 
 # My Projects
 
-Few highlights of projects I have worked on and/or created (in no particular order):
+A few highlights of projects I have created and/or worked on (in no particular order):
 
 | Project | Description                                                                 |
 | ------- | -------------------------------                                            |
