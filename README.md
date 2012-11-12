@@ -87,9 +87,8 @@ development for those that are interested.
 
 I started programming when I was fairly young. My dad always
 loved computers and he was showing me [Gopher](http://www.codeghost.com/gopher_history.html)
-as early as 1993 when I was just 6 years old. 
-
-When I was 9, My dad bought me [Lego Mindstorms](http://en.wikipedia.org/wiki/Lego_Mindstorms) and 
+as early as 1993 when I was just 6 years old. When I was 9, My dad bought me 
+[Lego Mindstorms](http://en.wikipedia.org/wiki/Lego_Mindstorms) and 
 I was soon introduced to VB6 (Visual Basic) and later to C++ by my uncle that was
 working for Symantec as a developer at that time.
 
