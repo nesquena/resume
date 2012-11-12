@@ -124,12 +124,13 @@ Always focused on building things and learning more about all the many, many thi
 # My Professional History
 
 The following is an **incomplete list** of a few highlights from my work history:
-
- * **iPodSoft** (2004) - Founded to sell iPod-related software with several other developers.
- * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
+ 
+ * **Miso** (2010-Present) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
+ * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
  * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
- * **quub** (2007-2010) - Principal engineer with founders to execute the vision for a passive, smart way to share your life with friends and family.
-
+ * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
+ * **iPodSoft** (2003-2005) - Founded to sell iPod-related software with several other developers.
+ 
 # My Skills
 
 Whenever I have been in a position to help grow the team for the startups I have worked at,
