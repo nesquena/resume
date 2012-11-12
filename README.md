@@ -121,6 +121,14 @@ with near full-time hours. I worked in desktop development (Java, .NET),
 mobile development (Blackberry, Symbian, Android) and a ton of web development (ASP.NET, Java, PHP and Ruby).
 Always focused on building things and learning more about all the many, many things I didn't know. 
 
+Today, I am still focused on startups, executing products and full-stack web development.
+Ruby and Sinatra/Padrino/Rails is my current stack of choice for realizing 
+the implementations of any new ideas I need to validate or experiment with. I am 
+still actively contributing to open-source, most recently with [RABL](https://github.com/nesquena/rabl)
+which has been [gaining popularity](https://www.ruby-toolbox.com/categories/API_Builders) and
+[backburner](https://github.com/nesquena/backburner) which is a reliable ruby work queue
+powered by beanstalkd.
+
 # My Professional History
 
 The following is an **incomplete list** of a few highlights from my work history:
