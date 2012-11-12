@@ -17,6 +17,9 @@ The following is an **incomplete list** of a few highlights from my work history
  * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
  * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
  * **iPodSoft** (2003-2005) - Founded to sell iPod-related software with several other developers.
+
+In addition, I worked for short periods of time with various other startups doing web and desktop development
+as well as freelancing on and off throughout my other jobs.
  
 # My Skills
 
@@ -86,6 +89,9 @@ of my projects.
 Prior to working at Miso in San Francisco, I have had a history of working at early-stage startups. 
 I'd like to include here a richer story of my background in software
 development for those that are interested.
+
+**Note:** This story is intentionally detailed. Please see above sections
+for the more concise summary.
 
 ## The Early Years
 
