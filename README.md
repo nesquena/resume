@@ -1,13 +1,13 @@
 # Introduction
 
 My name is Nathan Esquenazi and I am a developer that likes building products, 
-participating in startups and the ideals of entrepreneurship. I love open source,
-web development, and executing ideas. I am 25 as of the time of writing in 2012. 
+participating in startups and the ideals of entrepreneurship. I also have a passion for open source,
+web development, and executing new ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
 **Note:** Skip my detailed story below and 
 jump to [Professional History](#my-professional-history)
-for summaries to skim.
+for summaries to skim. 
 
 # My Story
 
