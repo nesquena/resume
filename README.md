@@ -5,8 +5,10 @@ participating in startups and the ideals of entrepreneurship. I also have a pass
 web development, and executing new ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
-**Note:** The quick summaries below are presented as the personal resume, 
-followed by a longer, more detailed history of my background.
+The quick summaries below are presented as the personal resume, 
+followed by a longer, more detailed history of my background. For a
+"traditional resume", please 
+[download the PDF](https://github.com/nesquena/resume/blob/master/nathan_esquenazi_resume.pdf).
 
 # My Professional History
 
