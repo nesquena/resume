@@ -6,24 +6,30 @@ web development, and executing new ideas. I am 25 as of the time of writing in 2
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
 **Note:** Skip my detailed story below and 
-jump to [Professional History](#my-professional-history)
-for summaries to skim. 
+jump to my [Professional History](#my-professional-history)
+for if you are in a hurry. 
 
 # My Story
 
-Prior to Miso, I have a history of working at startups. I have been doing so since I started
-my first company [iPodSoft](http://www.ipodsoft.com/site/pmwiki.php) as a junior in high school in 2004. 
-I reached out to a few other developers and established a 
-brand and marketplace for selling iPod-related software. 
-With iPodSoft, I developed multiple desktop and mobile softwares
+Prior to working at Miso, I have a history of working at early-stage startups. 
+I have been doing this since 2004, when I started my first company 
+[iPodSoft](http://www.ipodsoft.com/site/pmwiki.php) in my 3rd year of high school. 
+I reached out to a few other developers and established a marketplace for selling iPod-related software. 
+With iPodSoft, I developed and sold multiple desktop and mobile softwares 
 before the iPod had any connection to the internet. 
 
 ## iStory Creator
 
-My favorite project I created was 
+My favorite project I created with iPodSoft was 
 called [iStory Creator](http://en.wikipedia.org/wiki/IStory), an interactive
-storytelling mechanism for the iPod. I collected over 150 "iStories" submitted from many authors
-created using my software and that I would publish on our website.
+storytelling mechanism for the iPod using the "Notes" features. I had
+discovered that I could 'hack' the iPod Notes application
+to allow me to create HTML hyperlinks and insert music. 
+
+I created a freeware software to allow anyone of any technical expertise to leverage this feature and
+publish interactive stories that could be downloaded onto the iPod. 
+I collected 150+ "iStories" on a variety of topics 
+from many authors that I would make available for download on our website.
 
 ## Talking Panda
 
