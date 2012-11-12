@@ -21,13 +21,13 @@ The following is an **incomplete list** of a few highlights from my work history
 In addition, I worked for short periods of time with various other startups doing web and desktop development
 as well as freelancing on and off occasionally my other jobs.
 
-## My Education
+# My Education
 
  * School: Undergraduate at [University of California at Irvine, CA](http://www.uci.edu)
    * Department: [Donald Bren School of Information and Computer Sciences](http://www.ics.uci.edu/)
    * Major: Bachelor of Science, Information and Computer Science, 2009
    * G.P.A: 3.80/4.00
- * Dean’s Honor Roll - 2007 to 2009
+ * UCI Dean’s Honor Roll - 2007 to 2009
  * [Phi Beta Kappa](https://www.pbk.org/home/index.aspx) - June 2009. Honor Society. Nominated. Top 5% graduating seniors.
  
 # My Skills
