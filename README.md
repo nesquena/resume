@@ -22,52 +22,57 @@ before the iPod had any connection to the internet.
 
 My favorite project I created was 
 called [iStory Creator](http://en.wikipedia.org/wiki/IStory), an interactive
-storytelling mechanism for the iPod. I collected over 150 "iStories" from many authors
-that would publish iStories on our website.
+storytelling mechanism for the iPod. I collected over 150 "iStories" submitted from many authors
+created using my software and that I would publish on our website.
 
 ## Talking Panda
 
 Shortly after I graduated high school in 2005, I was contacted by Jordan Allen-Dutton
-be he wanted to acquire my software and hire me as the principal engineer to work at his startup 
+because he wanted to acquire my software and hire me as the principal engineer to work at his startup 
 [Talking Panda](http://www.talkingpanda.com/index.html). He liked building
-iPod software like me and we shared a vision of the future for an iPod filled
-with interactive experiences, user created software and games. 
+iPod software just like me and we shared a vision of the future for an iPod filled
+with interactive experiences and user created applications. 
 
-With Talking Panda, I built a successor to iStory Creator called 
-[iWriter](http://talkingpanda.com/iwriter) and worked on all the software we released. 
-Our boxed software such as [iRocker](http://talkingpanda.com/irocker.php) were some of the third-party
-software sold in official Apple retail stores. 
+With Talking Panda, I built a successor to iStory Creator which we named 
+[iWriter](http://talkingpanda.com/iwriter) and worked on all the other software we released. 
+iWriter was intended to be used as an educational and entertainment platform and
+was experimented with by a few forward-thinking
+universities including [Penn State](http://ets.tlt.psu.edu/white-papers/iwriter-hot-team-results/).
+Our boxed software such as [iRocker](http://talkingpanda.com/irocker.php) were some of the first third-party
+software sold in the official Apple retail stores. 
 
 ## Mogopop
 
-We also worked together towards a vision of a 'Online Software Store' for the iPod called 
-[mogopop](http://www.ilounge.com/index.php/reviews/entry/mogopop-inc-mogopopcom-beta/). 
-We even spoke to Apple and met with several senior people demonstrating the power
-of the iPod with third-party software available online. Little did we know
-that not 6 months later, Apple would release their first iPhone and the app store.
+We also worked together at Talking Panda towards a shared vision of an 'Online Software Store' 
+for the iPod called [mogopop](http://www.ilounge.com/index.php/reviews/entry/mogopop-inc-mogopopcom-beta/). 
+We even spoke to Apple and met with several senior executives demonstrating the power
+of the iPod with third-party software available online for education and entertainment. 
+Little did we know when they seemed both interested and surprised
+that not 6 months later, Apple would release the first iPhone and the app store.
 
 ## College Life
 
-While I was a freshman in college at University of California at Irvine, I moved on from my first startup but 
-I was hooked and began independently learning all about desktop, mobile and
+While I was a freshman in college at University of California at Irvine, I moved on 
+from my first startup but I was hooked and began independently learning all about desktop, mobile and
 web development. Executing products was fun and I realized this was
 what I wanted to do...at least for a while. 
 
 Classes and the academic theory were interesting to me but I couldn't resist the startup world.
-Still, I found at that time a passion for educating others. I became a tutor for several years
+Still, I found at that time a passion for education and curriculum. I became a tutor for several years
 teaching CS fundamentals to freshman and sophomores. I also enjoyed helping
-others in my classes newer to academic computer science having
+other classmates understand material having
 myself entered college with 3 years of CS fundamentals and a 5 on the AP test
 with the help and guidance of [Bob Franz](http://www.lasv.org/laaefamily/advisors/rfranz.htm).
 
 I did various contracting jobs, explored multiple stacks and worked for several more startups including 
 [quub](http://techcrunch.com/2009/04/27/quub-a-micromessaging-service-that-asks-what-are-you-doing-and-means-it/)
-working alongside one of my best professors from college.
+working with one of my top professors from college, 
+[Don Patterson](http://www.ics.uci.edu/faculty/profiles/view_faculty.php?ucinetid=djpatter).
 
 ## Olepta
 
-In college, I started one company with my good friend Thomas Shafer called "Olepta",
-which was intended to be a turnkey scheduling solutions for health professionals. 
+In college, I started a company with my good friend [Thomas Shafer](https://github.com/growlypants) 
+named "Olepta", which was intended to be a turnkey scheduling solutions for health professionals. 
 We worked on that together for several years while in college, including coordinating with our professors
 to allow us to get formal school credit for our work and turn our company into our senior class project.
 Had a great time with Olepta and we ended up getting multiple patents several of which 
