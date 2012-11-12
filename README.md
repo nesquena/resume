@@ -108,10 +108,13 @@ started looking even closer at [Sinatra](http://sinatrarb.com), a ruby web micro
 We began building tools for Sinatra to make web development easier and more powerful
 and ultimately I released this open-source in a project called 
 [sinatra-more](https://github.com/nesquena/sinatra_more). After a few months,
-and multiple core contributors later, this turned into [Padrino](http://padrinorb.com/), 
-the "godfather of Sinatra".
+and multiple core contributors later, this quickly evolved into [Padrino](http://padrinorb.com/), 
+the "godfather of Sinatra" which is 
+[still being used](https://github.com/padrino/padrino-framework/wiki/Projects-using-Padrino) 
+today by many developers. Our team is still actively developing Padrino and
+we are working towards a stable 1.0 release.
 
-## In Closing
+## Wrapping Up
 
 For the duration of my 4 years as an undergraduate, I was working in startups and contracting 
 with near full-time hours. I worked in desktop development (Java, .NET),
@@ -120,24 +123,25 @@ Always focused on building things and learning more about all the many, many thi
 
 # My Professional History
 
-The following is an incomplete list of a few highlights of my work history:
+The following is an **incomplete list** of a few highlights from my work history:
 
- * **iPodSoft** (2004) - Created my company to sell iPod-related software with other developers.
- * **Talking Panda** (2005-2007) - Worked intermittently as principal engineer on multiple iPod-related products available in Apple retail stores.
- * **Alturn Solutions** (2007-2009) - Worked intermittently to found this company with Thomas Shafer, building appointment scheduling for health professionals.
- * **quub** (2007-2010) - Worked as the principal engineer with founders to execute the vision for a passive, smart way to share your life with friends and family.
+ * **iPodSoft** (2004) - Founded to sell iPod-related software with several other developers.
+ * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
+ * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
+ * **quub** (2007-2010) - Principal engineer with founders to execute the vision for a passive, smart way to share your life with friends and family.
 
 # My Skills
 
-When I have been in a position to help grow the team in the startups I have worked at,
-I always put a lot of emphasis on understanding how much visibility potential hires
+Whenever I have been in a position to help grow the team for the startups I have worked at,
+I put a lot of emphasis on understanding how much visibility potential hires
 had into the depths of their own knowledge. I consider people that rank themselves
-too highly on any given skill a "red flag" of sorts. In my experience so far, there
+suspiciously high on any given skill to mark a "red flag" of sorts. In my experience so far, there
 are very few exceptions to the 
 [Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
 
-I figure then that it would only be fair to rank my own abilities on a few key skills _as they stand today_. 
-I am going for honesty here. An attempt to honestly evaluate my own skills (as hard as that can be).
+I figure then that it would only be fair for me to rank my own abilities on a few key skills 
+_as they stand today_. I am going for accuracy here. An attempt to honestly 
+evaluate my own skills (as hard as that can be).
 The scale is from 1 (complete beginner, barely played with the skill) to 
 10 (practical master, knows topic inside and out).
  
@@ -159,6 +163,8 @@ The scale is from 1 (complete beginner, barely played with the skill) to
  * **Backbone**: 2
  * **Visual Design** (colors, layouts): 2
  * **VIM**: 1
+
+I will be adding to this list and hopefully updating it in an ongoing effort to improve.
 
 # My Projects
 
