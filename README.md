@@ -5,8 +5,8 @@ participating in startups and the ideals of entrepreneurship. I also have a pass
 web development, and executing new ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
 
-**Note:** The quick summaries presented below are first, followed by
-a more detailed story of my background.
+**Note:** The quick summaries presented below are presented as the personal resume, followed by
+a more detailed history of my background.
 
 # My Professional History
 
