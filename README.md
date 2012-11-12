@@ -23,13 +23,12 @@ as well as freelancing on and off occasionally my other jobs.
 
 ## My Education
 
- * School: University of California at Irvine, CA
+ * School: Undergraduate at University of California at Irvine, CA
    * Department: Donald Bren School of Information and Computer Sciences
-   * Major: Information and Computer Science, 2009
+   * Major: Bachelor of Science, Information and Computer Science, 2009
    * G.P.A: 3.80/4.00
  * Dean’s Honor Roll - 2007 to 2009
  * Phi Beta Kappa - June 2009. Honor Society. Nominated. Top 5% graduating seniors.
-
  
 # My Skills
 
