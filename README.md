@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Nathan Esquenazi and I am a developer that likes building products, 
+My name is Nathan Esquenazi and I am a developer who likes building products, 
 participating in startups and the ideals of entrepreneurship. I also have a passion for open source,
 web development, and executing new ideas. I am 25 as of the time of writing in 2012. 
 Currently living in San Francisco and working as one of the first engineers at [Miso](http://gomiso.com).
@@ -11,7 +11,7 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 # My Professional History
 
-The following is an **incomplete list** of a few highlights from my work history:
+The following is a few highlights from my work history:
  
  * **Miso** (2010-Present) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
  * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
@@ -26,7 +26,7 @@ as well as freelancing on and off occasionally my other jobs.
 
  * School: Undergraduate at [University of California at Irvine, CA](http://www.uci.edu)
    * Department: [Donald Bren School of Information and Computer Sciences](http://www.ics.uci.edu/)
-   * Major: Bachelor of Science, Information and Computer Science, 2009
+   * Major: Bachelor of Science, Informatics, 2009
    * G.P.A: 3.80/4.00
  * UCI Dean’s Honor Roll - 2007 to 2009
  * [Phi Beta Kappa](https://www.pbk.org/home/index.aspx) - June 2009. Honor Society. Nominated. Top 5% graduating seniors.
