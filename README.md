@@ -33,40 +33,29 @@ as well as freelancing on and off occasionally my other jobs.
  
 # My Skills
 
-Whenever I have been in a position to help grow the team for the startups I have worked at,
-I put a lot of emphasis on understanding how much visibility potential hires
-had into the depths of their own knowledge. I consider people that rank themselves
-suspiciously high on any given skill to mark a "red flag" of sorts. In my experience so far, there
-are very few exceptions to the 
-[Dunning–Kruger effect](http://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect).
-
-I figure then that it would only be fair for me to rank my own abilities on a few key skills 
-_as they stand today_. I am going for accuracy here. An attempt to honestly 
-evaluate my own skills (as hard as that can be).
-The scale is from 1 (complete beginner, barely played with the skill) to 
-10 (practical master, knows topic inside and out).
+This is an attempt to honestly evaluate my own skills (as hard as that can be).
+The scale is from 1 (complete beginner) to 10 (practical master, knows topic inside and out).
  
  * **Sinatra/Padrino**: 8
  * **Ruby**: 7
+ * **HTML5/CSS3**: 7
  * **Ruby on Rails**: 6
  * **API Development**: 6
  * **MiniTest** (unit tests): 6
  * **jQuery**: 6
  * **git**: 6
  * **Writing** (documentation): 6
- * **Agile Process**: 5
+ * **Agile Process**: 6
  * **Capybara** (integration tests): 5
  * **PostgreSQL**: 5
- * **HTML5/CSS3**: 5
+ * **C# .NET** (Desktop) : 5
+ * **Python**: 4
  * **Javascript** (no framework): 4
  * **Interaction Design** (user experience): 4
- * **Python**: 3
- * **C# .NET** (Desktop) : 3
+ * **Visual Design** (colors, layouts): 3
  * **Objective-C** (iPhone): 2
  * **Android**: 2
  * **Backbone**: 2
- * **Visual Design** (colors, layouts): 2
- * **VIM**: 1
 
 I will be adding to this list and hopefully updating it in an ongoing effort to improve.
 
