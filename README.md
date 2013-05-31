@@ -13,7 +13,8 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 The following is a few highlights from my work history:
  
- * **Miso** (2010-Present) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
+ * **CodePath** (2013 - Current) - Co-founder of this company with Tim Lee; we are focused on software development education and consulting.
+ * **Miso** (2010-2012) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
  * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
  * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
  * **Talking Panda** (2005-2007) - Principal engineer on multiple iPod-related products available in Apple retail stores.
@@ -46,7 +47,7 @@ The scale is from 1 (complete beginner) to 10 (practical master, knows topic ins
  * **git**: 6
  * **Writing** (documentation): 6
  * **Agile Process**: 6
- * **Capybara** (integration tests): 5
+ * **Android**: 5
  * **PostgreSQL**: 5
  * **C# .NET** (Desktop) : 5
  * **Python**: 4
@@ -54,7 +55,6 @@ The scale is from 1 (complete beginner) to 10 (practical master, knows topic ins
  * **Interaction Design** (user experience): 4
  * **Visual Design** (colors, layouts): 3
  * **Objective-C** (iPhone): 2
- * **Android**: 2
  * **Backbone**: 2
 
 I will be adding to this list and hopefully updating it in an ongoing effort to improve.
