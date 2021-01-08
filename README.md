@@ -2,7 +2,7 @@
 
 My name is Nathan Esquenazi and I am a developer who likes building products, 
 participating in startups and the ideals of entrepreneurship. I also have a passion for open source,
-web development, and executing new and impactful ideas. Currently living in San Francisco and building a community of engineers interesting in constantly and efficiently learning at [CodePath](http://codepath.com).
+web development, and executing new and impactful ideas. Currently living in San Francisco and working on to create an equitable pathway into tech by transforming CS education  nationwide at [CodePath](https://codepath.org).
 
 If you are looking for a more "traditional resume", please 
 [download the PDF](https://github.com/nesquena/resume/blob/master/nathan_esquenazi_resume.pdf?raw=true).
@@ -12,7 +12,8 @@ The sections below are my personal resume, followed by a longer and more detaile
 
 The following is a few highlights from my work history:
  
- * **CodePath** (2013 - Current) - Co-founder of this company with Tim Lee; we are focused on mobile development education and consulting.
+ * **CodePath.org** (2017 - Present) - Co-founder of this org with Michael Ellison and Tim Lee; We exist to eliminate educational inequity in technical careers. 
+ * **CodePath** (2013 - 2018) - Co-founder of this company with Tim Lee; we are focused on mobile development education and consulting.
  * **Miso** (2010-2012) - Principal engineer working closely with founders to execute multiple iterations of our vision for social TV.
  * **quub** (2007-2010) - Principal engineer working with founders to execute the vision for a passive, fun way to share your life with friends and family.
  * **Alturn Solutions** (2007-2009) - Founded this company with Thomas Shafer, building appointment scheduling for health professionals.
